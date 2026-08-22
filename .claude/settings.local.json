@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-NetTCPConnection -LocalPort 3001,8080,3000 -ErrorAction SilentlyContinue)"
+    ]
+  }
+}
