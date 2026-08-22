@@ -1,0 +1,11 @@
+# The two deployables are their own repositories, pushed separately:
+#   sayso-api   -> github.com/AnesuMugiya/sayso-api
+#   next-client -> github.com/AnesuMugiya/next-client
+# They were previously recorded here as dangling gitlinks (submodule pointers
+# with no .gitmodules), which meant a clone got two empty directories.
+sayso-api/
+next-client/
+
+# local scratch
+imgopt/
+ref/
