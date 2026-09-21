@@ -3,8 +3,8 @@
 #   next-client -> github.com/AnesuMugiya/next-client
 # They were previously recorded here as dangling gitlinks (submodule pointers
 # with no .gitmodules), which meant a clone got two empty directories.
-sayso-api/
-next-client/
+# sayso-api/
+# next-client/
 
 # local scratch
 imgopt/
